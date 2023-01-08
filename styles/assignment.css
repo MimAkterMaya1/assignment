@@ -1,0 +1,41 @@
+.head{
+    text-align: right;
+    position: absolute;
+    margin-right: 230px;
+}
+.top{
+    background: orchid;
+}
+
+.title1{
+    font-weight: 800;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    margin-left: 845px;
+    margin-top: 200px;
+    height: 220;
+    width: 300;
+
+}
+.title-para{
+    font-weight: 500;
+    color: brown;
+    margin-left: 875px;
+    margin-top: 5px;
+    font-size: 20;
+    height: 80;
+    width: 295;
+}
+.btn{
+    background-color: orangered;
+    border-radius: 5px;
+    border: 0px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: whitesmoke;
+    height: 64;
+    padding: 16px 32px;
+}
+
+
